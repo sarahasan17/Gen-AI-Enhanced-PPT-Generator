@@ -12,15 +12,7 @@ Follow these steps to set up and run the project.
    git clone https://github.com/sarahasan17/Gen-AI-Enhanced-PPT-Generator.git
    cd Gen-AI-Enhanced-PPT-Generator
    ```
-
-2. **Create a Virtual Environment (Optional but Recommended)**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On macOS/Linux
-   venv\Scripts\activate    # On Windows
-   ```
-
-3. **Install Dependencies**
+2. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
    ```
