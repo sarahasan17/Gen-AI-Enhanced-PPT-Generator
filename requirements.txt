@@ -1,0 +1,9 @@
+streamlit 
+pdfplumber 
+python-pptx 
+pandas 
+openpyxl 
+matplotlib 
+llama-index 
+ChatGroq
+llama_index
